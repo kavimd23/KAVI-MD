@@ -1,5 +1,5 @@
 {
-  "name": "NeroBot-MD",
+  "name": "KAVI-MD",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "xeon.js",
@@ -12,9 +12,9 @@
     "whatsapp",
     "2022",
     "base",
-    "baileys-md",
+    "KAVI-md",
     "bot",
-    "bot-md",
+    "KAVI-md",
     "multi-device" 
   ],
   "author": "Xeon",
